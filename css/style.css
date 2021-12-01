@@ -24,11 +24,19 @@ body{
     font-size: 14pt;
 }
 .texto2{
+    margin-top: 40px;
     padding: 10px;
     background-color:lavender;
     color: saddlebrown;
     font-family: 'Outfit', sans-serif;
     font-size: 14pt;
+}
+.texto3{
+    padding: 20px;
+    background-color:lightpink;
+    color: saddlebrown;
+    font-family: 'Outfit', sans-serif;
+    font-size: 18pt;
 }
 .page-footer{
     background-color: lightpink;
@@ -46,4 +54,8 @@ a:hover{
     color: saddlebrown;
     font-family: 'Outfit', sans-serif;
     text-decoration: none;
+}
+.video1{
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
