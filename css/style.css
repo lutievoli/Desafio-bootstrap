@@ -59,3 +59,75 @@ a:hover{
     margin-top: 20px;
     margin-bottom: 30px;
 }
+.titulo1{
+    font-family: 'Outfit', sans-serif;
+    color: saddlebrown;
+    font-size: 30pt;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.titulo2{
+    font-family: 'Outfit', sans-serif;
+    color: saddlebrown;
+    font-size: 30pt;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.fotosgaleria{
+    margin-bottom: 60px;
+}
+.card{
+    background-color: #ffeeba;
+}
+.btn-link{
+    text-decoration: none;
+    color: saddlebrown;
+    font-family: 'Outfit', sans-serif;
+}
+.btn-link:hover{
+    text-decoration: none;
+    color: saddlebrown;
+    font-family: 'Outfit', sans-serif;
+}
+.btn-link:visited{
+    text-decoration: none;
+    color: saddlebrown;
+    font-family: 'Outfit', sans-serif;
+}
+.card-body{
+    color:sienna;
+    font-family: 'Outfit', sans-serif;
+}
+.accordion{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.texto4{
+    padding: 20px;
+    background: rgb(255,191,221);
+    background: linear-gradient(309deg, rgba(255,191,221,1) 0%, rgba(255,246,191,1) 50%, rgba(219,191,255,1) 100%);
+    color: saddlebrown;
+    font-family: 'Outfit', sans-serif;
+    font-size: 14pt;
+}
+.formulario{
+    color: saddlebrown;
+    font-family: 'Outfit', sans-serif;
+}
+.etiqueta{
+    padding: 10px;
+    margin: 10px auto 10px auto;
+    background-color: lightpink;
+    color: saddlebrown;
+    font-family: 'Outfit', sans-serif;
+    font-size: 14pt;
+}
+.btn-primary{
+    width: 100px;
+    background-color: lightpink;
+    border-color: palevioletred;
+}
+.btn-primary:hover{
+    background-color:mistyrose;
+    border-color: lightcoral;
+}
