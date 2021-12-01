@@ -1,0 +1,46 @@
+body{
+    background-color: lightsteelblue;
+}
+.colornav{
+    background-color: lightpink;
+}
+.navbar-brand{
+    font-family: 'Outfit', sans-serif;
+}
+.nav-link{
+    font-family: 'Outfit', sans-serif;
+}
+.alert-warning {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+    font-family: 'Outfit', sans-serif;
+}
+.texto1{
+    padding: 10px;
+    background-color:lavender;
+    color: saddlebrown;
+    font-family: 'Outfit', sans-serif;
+    font-size: 14pt;
+}
+.texto2{
+    padding: 10px;
+    background-color:lavender;
+    color: saddlebrown;
+    font-family: 'Outfit', sans-serif;
+    font-size: 14pt;
+}
+.page-footer{
+    background-color: lightpink;
+}
+.footer-copyright{
+    color: saddlebrown;
+}
+a{
+    color: saddlebrown;
+    text-decoration: none;
+}
+a:hover{
+    color: saddlebrown;
+    text-decoration: none;
+}
