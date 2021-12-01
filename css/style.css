@@ -34,13 +34,16 @@ body{
     background-color: lightpink;
 }
 .footer-copyright{
+    font-family: 'Outfit', sans-serif;
     color: saddlebrown;
 }
 a{
     color: saddlebrown;
+    font-family: 'Outfit', sans-serif;
     text-decoration: none;
 }
 a:hover{
     color: saddlebrown;
+    font-family: 'Outfit', sans-serif;
     text-decoration: none;
 }
