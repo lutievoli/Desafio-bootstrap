@@ -110,6 +110,10 @@ a:hover{
     font-family: 'Outfit', sans-serif;
     font-size: 14pt;
 }
+.texto4:hover{
+    box-shadow: 2px 2px 5px rgb(129, 136, 177);
+    transition: all 1s;
+}
 .formulario{
     color: saddlebrown;
     font-family: 'Outfit', sans-serif;
